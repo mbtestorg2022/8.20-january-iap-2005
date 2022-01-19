@@ -1,0 +1,42 @@
+{
+  "term": "January IAP",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Relativity"
+    ]
+  ],
+  "legacy_uid": "c6d70e87-d105-73c6-3b1c-1e7adb637921",
+  "instructors": {
+    "content": [
+      "a987aa51-bf9c-0c7d-bbe9-2879829df022"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "b404e63a-11c2-296d-f804-5f23b1eca1cd",
+    "website": "8-20-introduction-to-special-relativity-january-iap-2005"
+  },
+  "course_title": "Introduction to Special Relativity",
+  "course_description": "This course introduces the basic ideas and equations of Einstein's Special Theory of Relativity. If you have hoped to understand the physics of Lorentz contraction, time dilation, the \"twin paradox\", and E=mc2, you're in the right place.\n\nAcknowledgements\n----------------\n\nProf. Knuteson wishes to acknowledge that this course was originally designed and taught by Prof. Robert Jaffe.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.20",
+  "course_image_thumbnail": {
+    "content": "9e43962f-a5e0-6160-247c-53362ee82229",
+    "website": "8-20-introduction-to-special-relativity-january-iap-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions"
+  ],
+  "site_uid": "437a5e56-b098-437d-9000-2c72a12c84a4",
+  "title": "Course Metadata"
+}
